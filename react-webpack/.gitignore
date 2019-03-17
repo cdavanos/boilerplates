@@ -1,0 +1,13 @@
+node_modules
+bundle
+coverage
+dist
+lib
+/.vscode
+
+npm-debug.log
+coverage.lcov
+
+.vscode/
+.nvmrc
+.DS_Store
